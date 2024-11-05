@@ -12,12 +12,12 @@ struct SpeciesInfo {
 }
 
 struct StatInfo {
-    HP: uint8;
-    ATK: uint8;
-    DEF: uint8;
-    SPA: uint8;
-    SPD: uint8;
-    SPE: uint8;
+    hp: uint8;
+    atk: uint8;
+    def: uint8;
+    spa: uint8;
+    spd: uint8;
+    agi: uint8;
 }
 
 struct GenderInfo {
@@ -56,7 +56,9 @@ struct DexData {
 table Personal {
     species: SpeciesInfo;
     is_present: bool;
-    dex: DexData;
+    paldea_dex: DexData;
+    kitagami_dex: DexData;
+    blueberry_dex: DexData;
     type_1: uint8;
     type_2: uint8;
     ability_1: uint16;

@@ -1,6 +1,8 @@
 @echo off
-title SV Randomizer by XLuma
+title SV Randomizer UI by Mixone using XLumas code
+python -m venv importantCodeThings
+call importantCodeThings\Scripts\activate.bat
 python -m pip install -r requirements.txt
-python Randomizer.py
-:py Randomizer.py
+python RandomizerUI.py
+:py RandomizerUI.py
 Pause

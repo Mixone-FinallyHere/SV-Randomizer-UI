@@ -1,36 +1,54 @@
 {
     "wild_randomizer": {
-        "is_enabled": "no",
-        "exclude_legendaries": "yes"
+        "is_enabled": "yes",
+        "exclude_legendaries": "no",
+        "only_legendaries": "no"
     },
     "trainer_randomizer": {
         "is_enabled": "no",
-        "force_6_pokemons_on_important_trainers": "no",
+        "force_6_pokemons_on_important_trainers": "yes",
         "force_perfect_ivs": "no",
-        "make_ai_smart_for_all_trainers": "no",
+        "make_ai_smart_for_all_trainers": "yes",
         "allow_all_trainers_to_terastalize": "no",
-        "randomize_fixed_tera_type": "no",
-        "randomize_all_tera_type": "no"
+        "randomize_fixed_tera_type": "yes",
+        "randomize_all_tera_type": "no",
+        "only_legendaries": "no"
     },
     "personal_data_randomizer": {
-        "is_enabled": "no",
+        "is_enabled": "yes",
         "randomize_abilities": "yes",
         "ban_wonder_guard": "yes",
-        "randomize_movesets": "no",
-        "randomize_evolutions": "yes"
+        "randomize_movesets": "yes",
+        "randomize_types": "no",
+        "randomize_evolutions": "no",
+        "evolution_every_level": "no",
+        "same_type_moves_rounds": 27
     },
     "starter_randomizer": {
-        "is_enabled": "yes",
+        "is_enabled": "no",
+        "include_legendaries": "yes",
+        "include_paradox": "yes",
+        "only_legendaries": "no",
+        "prevent_reuse": "yes",
         "randomize_all_gifts": "no",
-        "randomize_tera_type": "no",
+        "randomize_tera_type": "yes",
         "show_starters_in_overworld": "yes"
     },
     "static_randomizer": {
         "is_enabled": "no",
-        "randomize_tera_type_for_static_tera": "no"
+        "randomize_tera_type_for_static_tera": "yes"
     },
     "tm_randomizer": {
         "is_enabled": "no"
     },
-    "patch_trpfd": "yes"
+    "field_item_randomizer": {
+        "is_enabled": "no"
+    },
+    "shop_randomizer": {
+        "is_enabled": "no"
+    },
+    "romfs_path": "no",
+    "shiny_rate": 1,
+    "number_of_files": 2,
+    "patch_trpfd": "no"
 }

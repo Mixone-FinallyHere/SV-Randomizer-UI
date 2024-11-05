@@ -29,19 +29,19 @@ def patchIndividualScenes():
     with open(os.getcwd() + "/Randomizer/Scenes/common_0070_always_0.trsog", "w+b") as file:
         file.write(scarlet_scene_bytes)
         file.seek(sprigattio_offset)
-        file.write(b'\x6C\x02')
-        file.seek(fuecoco_offset)
         file.write(b'\x6D\x02')
-        file.seek(quaxly_offset)
+        file.seek(fuecoco_offset)
         file.write(b'\x6E\x02')
+        file.seek(quaxly_offset)
+        file.write(b'\x6F\x02')
     with open(os.getcwd() + "/Randomizer/Scenes/common_0070_always_1.trsog", "w+b") as file:
         file.write(violet_scene_bytes)
         file.seek(sprigattio_offset)
-        file.write(b'\x6C\x02')
-        file.seek(fuecoco_offset)
         file.write(b'\x6D\x02')
-        file.seek(quaxly_offset)
+        file.seek(fuecoco_offset)
         file.write(b'\x6E\x02')
+        file.seek(quaxly_offset)
+        file.write(b'\x6F\x02')
 
 def retrieve_starter(starters, label):
     for entry in starters['values']:
@@ -64,17 +64,17 @@ def retrieve_catalog_entry(catalog: dict, species, form, fake_catalog_index):
         
 def patchCatalog(names: list, catalog, starters):
     starter_array_order = ['common_0065_kusa', 'common_0065_hono', 'common_0065_mizu'] #prevents me from writing a lot of useless code
-    fake_catalog_species = 620
+    fake_catalog_species = 621
     for current_starter in starter_array_order:
         starter = retrieve_starter(starters, current_starter)
-        species_index = fetch_devname_index(starter['pokeData']['devId'], names)
+        species_index = starter['pokeData']['devId']
         form_index = starter['pokeData']['formId']
         catalog_entry = retrieve_catalog_entry(catalog, species_index, form_index, fake_catalog_species) #replace species index
         catalog['unk_1'].append(catalog_entry)
         fake_catalog_species = fake_catalog_species + 1 #this goes until 622
     pass
 
-def patchScenes():
+def patchScenes(config):
     #load starters
     starterfile = open(os.getcwd() + "/Randomizer/Starters/" +"eventAddPokemon_array.json", "r") #0 is fuecoco, 1 is sprigattio, 2 is quaxly
     starters = json.load(starterfile)

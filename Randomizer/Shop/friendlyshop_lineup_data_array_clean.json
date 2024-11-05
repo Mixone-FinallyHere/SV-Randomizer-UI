@@ -1,0 +1,5348 @@
+{
+  "values": [
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_KIZUGUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_IIKIZUGUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_SUGOIKIZUGUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_MANTANNOKUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_KAIHUKUNOKUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_MONSUTAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_SUUPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_HAIPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_HIIRUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_NETTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_RIPIITOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_NESUTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_GOOZYASUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_DAIBUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_KUIKKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_DAAKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_TAIMAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_DOKUKESI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_YAKEDONAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_KOORINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_NEMUKEZAMASI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_MAHINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_NANDEMONAOSI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_GENKINOKAKERA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_00_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_PIPPININGYOU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 1,
+      "item": "ITEMID_KISEKINOTANE",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 2,
+      "item": "ITEMID_MOKUTAN",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 3,
+      "item": "ITEMID_SINPINOSIZUKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 4,
+      "item": "ITEMID_SIRUKUNOSUKAAHU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 5,
+      "item": "ITEMID_SURUDOIKUTIBASI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 6,
+      "item": "ITEMID_GINNOKONA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 7,
+      "item": "ITEMID_TIKARANOHATIMAKI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 8,
+      "item": "ITEMID_MONOSIRIMEGANE",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 9,
+      "item": "ITEMID_SENTOUBAFFA4",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 10,
+      "item": "ITEMID_TATUZINNOOBI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 11,
+      "item": "ITEMID_KIAINOHATIMAKI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 12,
+      "item": "ITEMID_KIAINOTASUKI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 13,
+      "item": "ITEMID_KODAWARIHATIMAKI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 14,
+      "item": "ITEMID_KODAWARIMEGANE",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 15,
+      "item": "ITEMID_KODAWARISUKAAHU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 16,
+      "item": "ITEMID_INOTINOTAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 17,
+      "item": "ITEMID_SENTOUBAFFA1",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 18,
+      "item": "ITEMID_SENTOUBAFFA2",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 19,
+      "item": "ITEMID_GOTUGOTUMETTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 20,
+      "item": "ITEMID_SINKANOKISEKI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 21,
+      "item": "ITEMID_TOTUGEKITYOKKI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 22,
+      "item": "ITEMID_SENSEINOTUME",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 23,
+      "item": "ITEMID_SURUDOITUME",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 24,
+      "item": "ITEMID_NEBARINOKAGIDUME",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 25,
+      "item": "ITEMID_OUZYANOSIRUSI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 26,
+      "item": "ITEMID_ZYAKUTENHOKEN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 27,
+      "item": "ITEMID_KARABURIHOKEN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 28,
+      "item": "ITEMID_NODOAME",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup1",
+      "sortnum": 29,
+      "item": "ITEMID_AKAIITO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 1,
+      "item": "ITEMID_GINNOOUKAN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 2,
+      "item": "ITEMID_HONOONOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 3,
+      "item": "ITEMID_KAMINARINOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 4,
+      "item": "ITEMID_RIIHUNOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 5,
+      "item": "ITEMID_MIZUNOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 6,
+      "item": "ITEMID_AMAAIRINGO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 7,
+      "item": "ITEMID_SUPPAIRINGO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 8,
+      "item": "ITEMID_KURENAINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 9,
+      "item": "ITEMID_YAMABUKINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 10,
+      "item": "ITEMID_USUMOMONOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 11,
+      "item": "ITEMID_MURASAKINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 12,
+      "item": "ITEMID_KEMURIDAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 13,
+      "item": "ITEMID_YASURAGINOSUZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 14,
+      "item": "ITEMID_KAWARAZUNOISI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 15,
+      "item": "ITEMID_PAWAAUEITO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 16,
+      "item": "ITEMID_PAWAARISUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 17,
+      "item": "ITEMID_PAWAABERUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 18,
+      "item": "ITEMID_PAWAARENZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 19,
+      "item": "ITEMID_PAWAABANDO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup2",
+      "sortnum": 20,
+      "item": "ITEMID_PAWAAANKURU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 1,
+      "item": "ITEMID_MONSUTAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 2,
+      "item": "ITEMID_SUUPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 3,
+      "item": "ITEMID_HAIPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 4,
+      "item": "ITEMID_HIIRUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 5,
+      "item": "ITEMID_NETTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 6,
+      "item": "ITEMID_RIPIITOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 7,
+      "item": "ITEMID_NESUTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 8,
+      "item": "ITEMID_GOOZYASUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 9,
+      "item": "ITEMID_DAIBUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 10,
+      "item": "ITEMID_KUIKKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 11,
+      "item": "ITEMID_DAAKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_delibird_00_lineup3",
+      "sortnum": 12,
+      "item": "ITEMID_TAIMAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 1,
+      "item": "ITEMID_ZISYAKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 2,
+      "item": "ITEMID_KATAIISI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 3,
+      "item": "ITEMID_DOKUBARI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 4,
+      "item": "ITEMID_NOROINOOHUDA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 5,
+      "item": "ITEMID_RYUUNOKIBA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 6,
+      "item": "ITEMID_NOOMARUZYUERU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 7,
+      "item": "ITEMID_TABENOKOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 8,
+      "item": "ITEMID_OOKINANEKKO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 9,
+      "item": "ITEMID_HIKARINOKONA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 10,
+      "item": "ITEMID_HIKARINONENDO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 11,
+      "item": "ITEMID_BANNOUGASA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 13,
+      "item": "ITEMID_GURANDOKOOTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 14,
+      "item": "ITEMID_HUUSEN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 15,
+      "item": "ITEMID_KIREINANUKEGARA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 16,
+      "item": "ITEMID_SIROIHAABU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 17,
+      "item": "ITEMID_MENTARUHAABU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 18,
+      "item": "ITEMID_PAWAHURUHAABU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 19,
+      "item": "ITEMID_SENTOUBAFFA3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 20,
+      "item": "ITEMID_KYUUKON",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 21,
+      "item": "ITEMID_ZYUUDENTI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 22,
+      "item": "ITEMID_HIKARIGOKE",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 23,
+      "item": "ITEMID_YUKIDAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 24,
+      "item": "ITEMID_ATUIIWA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 25,
+      "item": "ITEMID_SIMETTAIWA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 26,
+      "item": "ITEMID_SARASARAIWA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 27,
+      "item": "ITEMID_TUMETAIIWA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 28,
+      "item": "ITEMID_EREKISIIDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 29,
+      "item": "ITEMID_SAIKOSIIDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 30,
+      "item": "ITEMID_MISUTOSIIDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup1",
+      "sortnum": 31,
+      "item": "ITEMID_GURASUSIIDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 1,
+      "item": "ITEMID_GINNOOUKAN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 2,
+      "item": "ITEMID_HONOONOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 3,
+      "item": "ITEMID_KAMINARINOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 4,
+      "item": "ITEMID_RIIHUNOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 5,
+      "item": "ITEMID_MIZUNOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 6,
+      "item": "ITEMID_AMAAIRINGO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 7,
+      "item": "ITEMID_SUPPAIRINGO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 8,
+      "item": "ITEMID_KURENAINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 9,
+      "item": "ITEMID_YAMABUKINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 10,
+      "item": "ITEMID_USUMOMONOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 11,
+      "item": "ITEMID_MURASAKINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 12,
+      "item": "ITEMID_KEMURIDAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 13,
+      "item": "ITEMID_YASURAGINOSUZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 14,
+      "item": "ITEMID_KAWARAZUNOISI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 15,
+      "item": "ITEMID_PAWAAUEITO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 16,
+      "item": "ITEMID_PAWAARISUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 17,
+      "item": "ITEMID_PAWAABERUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 18,
+      "item": "ITEMID_PAWAARENZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 19,
+      "item": "ITEMID_PAWAABANDO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup2",
+      "sortnum": 20,
+      "item": "ITEMID_PAWAAANKURU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 1,
+      "item": "ITEMID_MONSUTAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 2,
+      "item": "ITEMID_SUUPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 3,
+      "item": "ITEMID_HAIPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 4,
+      "item": "ITEMID_HIIRUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 5,
+      "item": "ITEMID_NETTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 6,
+      "item": "ITEMID_RIPIITOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 7,
+      "item": "ITEMID_NESUTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 8,
+      "item": "ITEMID_GOOZYASUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 9,
+      "item": "ITEMID_DAIBUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 10,
+      "item": "ITEMID_KUIKKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 11,
+      "item": "ITEMID_DAAKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_delibird_01_lineup3",
+      "sortnum": 12,
+      "item": "ITEMID_TAIMAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 1,
+      "item": "ITEMID_YAWARAKAISUNA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 2,
+      "item": "ITEMID_KUROIMEGANE",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 3,
+      "item": "ITEMID_KUROOBI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 4,
+      "item": "ITEMID_TOKENAIKOORI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 5,
+      "item": "ITEMID_MAGATTASUPUUN",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 6,
+      "item": "ITEMID_METARUKOOTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 7,
+      "item": "ITEMID_SENTOUBAFFA6",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 8,
+      "item": "ITEMID_KAIGARANOSUZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 9,
+      "item": "ITEMID_METORONOOMU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 10,
+      "item": "ITEMID_PINTORENZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 11,
+      "item": "ITEMID_KOUKAKURENZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 12,
+      "item": "ITEMID_FOOKASURENZU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 13,
+      "item": "ITEMID_BOUZINGOOGURU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 14,
+      "item": "ITEMID_BOUGOPATTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 15,
+      "item": "ITEMID_ATUZOKOBUUTU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 16,
+      "item": "ITEMID_SENTOUBAFFA5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 17,
+      "item": "ITEMID_REDDOKAADO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 18,
+      "item": "ITEMID_DASSYUTUBOTAN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 19,
+      "item": "ITEMID_DASSYUTUPAKKU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 20,
+      "item": "ITEMID_BIBIRIDAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 21,
+      "item": "ITEMID_RUUMUSAABISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 22,
+      "item": "ITEMID_KUROITEKKYUU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 23,
+      "item": "ITEMID_DOKUDOKUDAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 24,
+      "item": "ITEMID_KAENDAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 25,
+      "item": "ITEMID_KOUKOUNOSIPPO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 26,
+      "item": "ITEMID_KUROIHEDORO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 27,
+      "item": "ITEMID_KUTTUKIBARI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 28,
+      "item": "ITEMID_NERAINOMATO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup1",
+      "sortnum": 29,
+      "item": "ITEMID_SIMETUKEBANDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 1,
+      "item": "ITEMID_GINNOOUKAN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 2,
+      "item": "ITEMID_HONOONOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 3,
+      "item": "ITEMID_KAMINARINOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 4,
+      "item": "ITEMID_RIIHUNOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 5,
+      "item": "ITEMID_MIZUNOISI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 6,
+      "item": "ITEMID_AMAAIRINGO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 7,
+      "item": "ITEMID_SUPPAIRINGO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 8,
+      "item": "ITEMID_KURENAINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 9,
+      "item": "ITEMID_YAMABUKINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 10,
+      "item": "ITEMID_USUMOMONOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 11,
+      "item": "ITEMID_MURASAKINOMITU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 12,
+      "item": "ITEMID_KEMURIDAMA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 13,
+      "item": "ITEMID_YASURAGINOSUZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 14,
+      "item": "ITEMID_KAWARAZUNOISI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 15,
+      "item": "ITEMID_PAWAAUEITO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 16,
+      "item": "ITEMID_PAWAARISUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 17,
+      "item": "ITEMID_PAWAABERUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 18,
+      "item": "ITEMID_PAWAARENZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 19,
+      "item": "ITEMID_PAWAABANDO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup2",
+      "sortnum": 20,
+      "item": "ITEMID_PAWAAANKURU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 1,
+      "item": "ITEMID_MONSUTAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 2,
+      "item": "ITEMID_SUUPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 3,
+      "item": "ITEMID_HAIPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 4,
+      "item": "ITEMID_HIIRUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 5,
+      "item": "ITEMID_NETTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 6,
+      "item": "ITEMID_RIPIITOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 7,
+      "item": "ITEMID_NESUTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 8,
+      "item": "ITEMID_GOOZYASUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 9,
+      "item": "ITEMID_DAIBUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 10,
+      "item": "ITEMID_KUIKKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 11,
+      "item": "ITEMID_DAAKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_delibird_02_lineup3",
+      "sortnum": 12,
+      "item": "ITEMID_TAIMAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_BANANASURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_ICHIGOSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_TOMATOSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_PIKURUSUSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_WAGIRIRINGO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_KATTOMINITOMATO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_WAGIRIKIUI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_HARAPEENYO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_KATTOPAIN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_NUUDORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_kanzume_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_RAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_OISIIMIZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_SAIKOSOODA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_MIKKUSUORE",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_MOOMOOMIRUKU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_KIZUGUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_IIKIZUGUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_SUGOIKIZUGUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_MANTANNOKUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_KAIHUKUNOKUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_MONSUTAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_SUUPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_HAIPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_HIIRUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_NETTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_RIPIITOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_NESUTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_GOOZYASUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_DAIBUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_KUIKKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_DAAKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_TAIMAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_DOKUKESI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_YAKEDONAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_KOORINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_NEMUKEZAMASI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 26,
+      "item": "ITEMID_MAHINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 27,
+      "item": "ITEMID_NANDEMONAOSI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 28,
+      "item": "ITEMID_GENKINOKAKERA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_koubai_00_lineup",
+      "sortnum": 29,
+      "item": "ITEMID_PIPPININGYOU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_POINTOAPPU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_TOKUSEIKAPUSERU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE9",
+      "gym_badge_num": 9
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_MAKKUSUAPPU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_TAURIN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_BUROMUHEKISIN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_RIZOTIUMU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_KITOSAN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_INDOMETASIN",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_PURASUPAWAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_DHIFENDAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_SUPESYARUAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_SUPESYARUGAADO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_SUPIIDAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_YOKUATAARU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_KURITHIKATTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_EFEKUTOGAADO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_TIKARANOKONA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_TIKARANONEKKO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_BANNOUGONA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_HUKKATUSOU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_MAZIMEMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_SAMISIGARIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_IZIPPARIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_YANTYAMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_YUKANMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 26,
+      "item": "ITEMID_ZUBUTOIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 27,
+      "item": "ITEMID_WANPAKUMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 28,
+      "item": "ITEMID_NOUTENKIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 29,
+      "item": "ITEMID_NONKIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 30,
+      "item": "ITEMID_HIKAEMEMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 31,
+      "item": "ITEMID_OTTORIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 32,
+      "item": "ITEMID_UKKARIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 33,
+      "item": "ITEMID_REISEIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 34,
+      "item": "ITEMID_ODAYAKAMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 35,
+      "item": "ITEMID_OTONASIIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 36,
+      "item": "ITEMID_SINTYOUMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 37,
+      "item": "ITEMID_NAMAIKIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 38,
+      "item": "ITEMID_OKUBYOUMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 39,
+      "item": "ITEMID_SEKKTIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 40,
+      "item": "ITEMID_YOUKIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_kusuriya_00_lineup",
+      "sortnum": 41,
+      "item": "ITEMID_MUJYAKIMINTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_HAMUSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_RETASUPAKKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_TAMANEGISURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_MAYONEEZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_KECHAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_MASUTAADO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_SORUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_PEPPAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_BATAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_KURIIMUCHIIZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_BERIIJAMU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_ORIIBUOIRU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_SURAISUCHIIZU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_YOOGURUTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_HOIPPUKURIIMU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_PIINATTSUBATAA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_MAAMAREEDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_RANCHIPIKKU2",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_RANCHIPIKKU3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_RANCHIPIKKU5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_RANCHIPIKKU7",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_RANCHIPIKKU9",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_RANCHIPIKKU10",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_RANCHIPIKKU11",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_RANCHIPIKKU1",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 26,
+      "item": "ITEMID_RANCHIPIKKU4",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 27,
+      "item": "ITEMID_RANCHIPIKKU13",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 28,
+      "item": "ITEMID_RANCHIPIKKU14",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 29,
+      "item": "ITEMID_RANCHIPIKKU15",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 30,
+      "item": "ITEMID_RANCHIPIKKU16",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 31,
+      "item": "ITEMID_RANCHIPIKKU6",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 32,
+      "item": "ITEMID_RANCHIPIKKU8",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 33,
+      "item": "ITEMID_RANCHIPIKKU12",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 34,
+      "item": "ITEMID_RANCHIPIKKU17",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 35,
+      "item": "ITEMID_RANCHIPIKKU18",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_pan_00_lineup",
+      "sortnum": 36,
+      "item": "ITEMID_RANCHIPIKKU19",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_TEEBURUKABAA15",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_TEEBURUKABAA16",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_TEEBURUKABAA17",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_TEEBURUKABAA12",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_TEEBURUKABAA3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_TEEBURUKABAA4",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_TEEBURUKABAA11",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_SUITOU4",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_KOPPU6",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_KOPPU3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_SUITOU9",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_SUITOU10",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_SUITOU11",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_KOPPU5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_KOPPU8",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_00_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_PIKUNIKKUBOORU4",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_TEEBURUKABAA8",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_TEEBURUKABAA7",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_TEEBURUKABAA6",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_TEEBURUKABAA14",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_TEEBURUKABAA10",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_SUITOU3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_KOPPU4",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_SUITOU6",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_KOPPU9",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_SUITOU7",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_KOPPU10",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_SUITOU8",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_KOPPU11",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_KOPPU13",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_01_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_PIKUNIKKUBOORU3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_TEEBURUKABAA18",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_TEEBURUKABAA19",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_TEEBURUKABAA20",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_TEEBURUKABAA13",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_TEEBURUKABAA5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_SUITOU5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_KOPPU7",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_SUITOU14",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_KOPPU17",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_SUITOU12",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_KOPPU15",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_SUITOU13",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_KOPPU16",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_KOPPU12",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_PIKUNIKKUBOORU5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_picnic_02_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_PIKUNIKKUBOORU6",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_SURAISUEGGU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_POTETOSARADA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_YAKICHORISOO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_YAKIBEEKON",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_TORUTIIJA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_NAMAHAMU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_KYUURISURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_ABOKADO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_REDDOAARII",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_HANBAAGU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_SUMOOKUKIRIMI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_KURESON",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_BINEGAA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_CHIRISOOSU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_BAJIRU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_PIIMANSURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_AKAPAPURIKASURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_KIPAPURIKASURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_KIRIMIFURAI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_souzai_00_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_BOIRUSOOSEEJI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_MAYONEEZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_KECHAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_MASUTAADO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_SORUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_PEPPAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_BATAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_RETASUPAKKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_TOMATOSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_TAMANEGISURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_PIKURUSUSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_HAMUSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_KURIIMUCHIIZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_BERIIJAMU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_ORIIBUOIRU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_SURAISUCHIIZU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_YOOGURUTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_HOIPPUKURIIMU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_KATTOMINITOMATO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_KYUURISURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_ABOKADO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_REDDOAARII",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_BINEGAA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_KURESON",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_CHIRISOOSU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_BAJIRU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 26,
+      "item": "ITEMID_PIIMANSURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 27,
+      "item": "ITEMID_AKAPAPURIKASURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 28,
+      "item": "ITEMID_KIPAPURIKASURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 29,
+      "item": "ITEMID_MAAMAREEDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 30,
+      "item": "ITEMID_PIINATTSUBATAA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 31,
+      "item": "ITEMID_WASABISOOSU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 32,
+      "item": "ITEMID_TOOFU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 33,
+      "item": "ITEMID_HOOSURADISSHU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 34,
+      "item": "ITEMID_KAREEPAUDAA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_suupaa_00_lineup",
+      "sortnum": 35,
+      "item": "ITEMID_KANISUTIKKU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_OISIIMIZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_SAIKOSOODA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_MIKKUSUORE",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_MOOMOOMIRUKU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_KIZUGUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_IIKIZUGUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_SUGOIKIZUGUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_MANTANNOKUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_KAIHUKUNOKUSURI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_MONSUTAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_SUUPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_HAIPAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_HIIRUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_NETTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_RIPIITOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_NESUTOBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_GOOZYASUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_DAIBUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_KUIKKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_DAAKUBOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_TAIMAABOORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE8",
+      "gym_badge_num": 8
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_DOKUKESI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_YAKEDONAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_KOORINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_NEMUKEZAMASI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 26,
+      "item": "ITEMID_MAHINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 27,
+      "item": "ITEMID_NANDEMONAOSI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 28,
+      "item": "ITEMID_GENKINOKAKERA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 29,
+      "item": "ITEMID_PIPPININGYOU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 30,
+      "item": "ITEMID_TIKARANOKONA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 31,
+      "item": "ITEMID_TIKARANONEKKO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 32,
+      "item": "ITEMID_BANNOUGONA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 33,
+      "item": "ITEMID_HUKKATUSOU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 34,
+      "item": "ITEMID_MAYONEEZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 35,
+      "item": "ITEMID_KECHAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 36,
+      "item": "ITEMID_BATAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 37,
+      "item": "ITEMID_SORUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 38,
+      "item": "ITEMID_PEPPAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 39,
+      "item": "ITEMID_RETASUPAKKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 40,
+      "item": "ITEMID_TOMATOSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 41,
+      "item": "ITEMID_WAGIRIRINGO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 42,
+      "item": "ITEMID_HAMUSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 43,
+      "item": "ITEMID_TAMANEGISURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 44,
+      "item": "ITEMID_POTETOSARADA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 45,
+      "item": "ITEMID_BERIIJAMU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 46,
+      "item": "ITEMID_ORIIBUOIRU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 47,
+      "item": "ITEMID_KATTOMINITOMATO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 48,
+      "item": "ITEMID_KYUURISURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 49,
+      "item": "ITEMID_YOOGURUTO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 50,
+      "item": "ITEMID_ABOKADO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE2",
+      "gym_badge_num": 2
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 51,
+      "item": "ITEMID_PIIMANSURAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE3",
+      "gym_badge_num": 3
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 52,
+      "item": "ITEMID_MAAMAREEDO",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE4",
+      "gym_badge_num": 4
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 53,
+      "item": "ITEMID_TOOFU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 54,
+      "item": "ITEMID_RAISU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 55,
+      "item": "ITEMID_NUUDORU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE5",
+      "gym_badge_num": 5
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 56,
+      "item": "ITEMID_BOIRUSOOSEEJI",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 57,
+      "item": "ITEMID_HOOSURADISSHU",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE6",
+      "gym_badge_num": 6
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 58,
+      "item": "ITEMID_KAREEPAUDAA",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE7",
+      "gym_badge_num": 7
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 59,
+      "item": "ITEMID_RANCHIPIKKU2",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 60,
+      "item": "ITEMID_RANCHIPIKKU3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 61,
+      "item": "ITEMID_RANCHIPIKKU9",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 62,
+      "item": "ITEMID_RANCHIPIKKU10",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 63,
+      "item": "ITEMID_RANCHIPIKKU11",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 64,
+      "item": "ITEMID_RANCHIPIKKU5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 65,
+      "item": "ITEMID_RANCHIPIKKU7",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_syouten_lineup",
+      "sortnum": 66,
+      "item": "ITEMID_RANCHIPIKKU4",
+      "item_condkind": "GYMBADGENUM",
+      "item_condvalue": "BADGE1",
+      "gym_badge_num": 1
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_GENKINOKATAMARI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_PIIPIIEIDO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_PIIPIIRIKABAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_PIIPIIEIDAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_PIIPIIMAKKUSU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_MAKKUSUAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_TAURIN",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_BUROMUHEKISIN",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_INDOMETASIN",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_RIZOTIUMU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_KITOSAN",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_POINTOAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_KEIKENTIAME_3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_KEIKENTIAME_4",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_HUSIGINAAME",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_RYUUNOUROKO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_APPUGUREEDO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_PUROTEKUTAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_EREKIBUUSUTAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_MAGUMABUUSUTAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_AYASIIPATTI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_HUKUGOUKINZOKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_WAZAMASIN02",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_WAZAMASIN07",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_WAZAMASIN29",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 26,
+      "item": "ITEMID_WAZAMASIN30",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 27,
+      "item": "ITEMID_WAZAMASIN34",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 28,
+      "item": "ITEMID_WAZAMASIN39",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 29,
+      "item": "ITEMID_WAZAMASIN41",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 30,
+      "item": "ITEMID_WAZAMASIN44",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 31,
+      "item": "ITEMID_WAZAMASIN60",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 32,
+      "item": "ITEMID_WAZAMASIN64",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 33,
+      "item": "ITEMID_WAZAMASIN74",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 34,
+      "item": "ITEMID_WAZAMASIN75",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 35,
+      "item": "ITEMID_WAZAMASIN76",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 36,
+      "item": "ITEMID_WAZAMASIN81",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 37,
+      "item": "ITEMID_WAZAMASIN82",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 38,
+      "item": "ITEMID_WAZAMASIN86",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 39,
+      "item": "ITEMID_WAZAMASIN87",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 40,
+      "item": "ITEMID_WAZAMASIN88",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 41,
+      "item": "ITEMID_WAZAMASIN89",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 42,
+      "item": "ITEMID_WAZAMASIN100",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 43,
+      "item": "ITEMID_WAZAMASIN103",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 44,
+      "item": "ITEMID_WAZAMASIN104",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 45,
+      "item": "ITEMID_WAZAMASIN107",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 46,
+      "item": "ITEMID_WAZAMASIN108",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 47,
+      "item": "ITEMID_WAZAMASIN109",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 48,
+      "item": "ITEMID_WAZAMASIN110",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 49,
+      "item": "ITEMID_WAZAMASIN111",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 50,
+      "item": "ITEMID_WAZAMASIN112",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 51,
+      "item": "ITEMID_WAZAMASIN113",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 52,
+      "item": "ITEMID_WAZAMASIN115",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 53,
+      "item": "ITEMID_WAZAMASIN117",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 54,
+      "item": "ITEMID_WAZAMASIN118",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 55,
+      "item": "ITEMID_WAZAMASIN119",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 56,
+      "item": "ITEMID_WAZAMASIN124",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 57,
+      "item": "ITEMID_WAZAMASIN125",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 58,
+      "item": "ITEMID_WAZAMASIN126",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 59,
+      "item": "ITEMID_WAZAMASIN127",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 60,
+      "item": "ITEMID_WAZAMASIN129",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 61,
+      "item": "ITEMID_WAZAMASIN130",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 62,
+      "item": "ITEMID_WAZAMASIN133",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 63,
+      "item": "ITEMID_WAZAMASIN135",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 64,
+      "item": "ITEMID_WAZAMASIN140",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 65,
+      "item": "ITEMID_WAZAMASIN141",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 66,
+      "item": "ITEMID_WAZAMASIN142",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 67,
+      "item": "ITEMID_WAZAMASIN143",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 68,
+      "item": "ITEMID_WAZAMASIN148",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 69,
+      "item": "ITEMID_WAZAMASIN149",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 70,
+      "item": "ITEMID_WAZAMASIN150",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 71,
+      "item": "ITEMID_WAZAMASIN156",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 72,
+      "item": "ITEMID_WAZAMASIN157",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 73,
+      "item": "ITEMID_WAZAMASIN158",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 74,
+      "item": "ITEMID_WAZAMASIN159",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 75,
+      "item": "ITEMID_WAZAMASIN160",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 76,
+      "item": "ITEMID_WAZAMASIN161",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 77,
+      "item": "ITEMID_WAZAMASIN162",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 78,
+      "item": "ITEMID_WAZAMASIN163",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 79,
+      "item": "ITEMID_WAZAMASIN164",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 80,
+      "item": "ITEMID_WAZAMASIN165",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 81,
+      "item": "ITEMID_WAZAMASIN166",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 82,
+      "item": "ITEMID_WAZAMASIN171",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 83,
+      "item": "ITEMID_WAZAMASIN187",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 84,
+      "item": "ITEMID_WAZAMASIN196",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 85,
+      "item": "ITEMID_WAZAMASIN197",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbkoubai_lineup",
+      "sortnum": 86,
+      "item": "ITEMID_WAZAMASIN200",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 1,
+      "item": "ITEMID_OISIIMIZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 2,
+      "item": "ITEMID_SAIKOSOODA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 3,
+      "item": "ITEMID_MIKKUSUORE",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 4,
+      "item": "ITEMID_MOOMOOMIRUKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 5,
+      "item": "ITEMID_KIZUGUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 6,
+      "item": "ITEMID_IIKIZUGUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 7,
+      "item": "ITEMID_SUGOIKIZUGUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 8,
+      "item": "ITEMID_MANTANNOKUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 9,
+      "item": "ITEMID_KAIHUKUNOKUSURI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 10,
+      "item": "ITEMID_MONSUTAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 11,
+      "item": "ITEMID_SUUPAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 12,
+      "item": "ITEMID_HAIPAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 13,
+      "item": "ITEMID_HIIRUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 14,
+      "item": "ITEMID_NETTOBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 15,
+      "item": "ITEMID_RIPIITOBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 16,
+      "item": "ITEMID_NESUTOBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 17,
+      "item": "ITEMID_GOOZYASUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 18,
+      "item": "ITEMID_DAIBUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 19,
+      "item": "ITEMID_KUIKKUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 20,
+      "item": "ITEMID_DAAKUBOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 21,
+      "item": "ITEMID_TAIMAABOORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 22,
+      "item": "ITEMID_DOKUKESI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 23,
+      "item": "ITEMID_YAKEDONAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 24,
+      "item": "ITEMID_KOORINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 25,
+      "item": "ITEMID_NEMUKEZAMASI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 26,
+      "item": "ITEMID_MAHINAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 27,
+      "item": "ITEMID_NANDEMONAOSI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 28,
+      "item": "ITEMID_GENKINOKAKERA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 29,
+      "item": "ITEMID_EFEKUTOGAADO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 30,
+      "item": "ITEMID_KURITHIKATTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 31,
+      "item": "ITEMID_PURASUPAWAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 32,
+      "item": "ITEMID_DHIFENDAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 33,
+      "item": "ITEMID_SUPIIDAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 34,
+      "item": "ITEMID_YOKUATAARU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 35,
+      "item": "ITEMID_SUPESYARUAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 36,
+      "item": "ITEMID_SUPESYARUGAADO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 37,
+      "item": "ITEMID_PIPPININGYOU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 38,
+      "item": "ITEMID_MAYONEEZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 39,
+      "item": "ITEMID_KECHAPPU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 40,
+      "item": "ITEMID_MASUTAADO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 41,
+      "item": "ITEMID_BATAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 42,
+      "item": "ITEMID_PIINATTSUBATAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 43,
+      "item": "ITEMID_CHIRISOOSU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 44,
+      "item": "ITEMID_SORUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 45,
+      "item": "ITEMID_PEPPAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 46,
+      "item": "ITEMID_YOOGURUTO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 47,
+      "item": "ITEMID_HOIPPUKURIIMU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 48,
+      "item": "ITEMID_KURIIMUCHIIZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 49,
+      "item": "ITEMID_BINEGAA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 50,
+      "item": "ITEMID_RETASUPAKKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 51,
+      "item": "ITEMID_TOMATOSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 52,
+      "item": "ITEMID_KATTOMINITOMATO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 53,
+      "item": "ITEMID_KYUURISURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 54,
+      "item": "ITEMID_PIKURUSUSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 55,
+      "item": "ITEMID_REDDOAARII",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 56,
+      "item": "ITEMID_AKAPAPURIKASURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 57,
+      "item": "ITEMID_KIPAPURIKASURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 58,
+      "item": "ITEMID_YAKIBEEKON",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 59,
+      "item": "ITEMID_NAMAHAMU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 60,
+      "item": "ITEMID_YAKICHORISOO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 61,
+      "item": "ITEMID_HANBAAGU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 62,
+      "item": "ITEMID_KANISUTIKKU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 63,
+      "item": "ITEMID_SUMOOKUKIRIMI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 64,
+      "item": "ITEMID_KIRIMIFURAI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 65,
+      "item": "ITEMID_SURAISUEGGU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 66,
+      "item": "ITEMID_TORUTIIJA",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 67,
+      "item": "ITEMID_RAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 68,
+      "item": "ITEMID_NUUDORU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 69,
+      "item": "ITEMID_SURAISUCHIIZU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 70,
+      "item": "ITEMID_BANANASURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 71,
+      "item": "ITEMID_ICHIGOSURAISU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 72,
+      "item": "ITEMID_WAGIRIRINGO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 73,
+      "item": "ITEMID_WAGIRIKIUI",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 74,
+      "item": "ITEMID_KATTOPAIN",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 75,
+      "item": "ITEMID_HARAPEENYO",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 76,
+      "item": "ITEMID_WASABISOOSU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 77,
+      "item": "ITEMID_KURESON",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 78,
+      "item": "ITEMID_BAJIRU",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 79,
+      "item": "ITEMID_RANCHIPIKKU2",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 80,
+      "item": "ITEMID_RANCHIPIKKU3",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 81,
+      "item": "ITEMID_RANCHIPIKKU4",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 82,
+      "item": "ITEMID_RANCHIPIKKU9",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 83,
+      "item": "ITEMID_RANCHIPIKKU10",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 84,
+      "item": "ITEMID_RANCHIPIKKU11",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 85,
+      "item": "ITEMID_RANCHIPIKKU5",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 86,
+      "item": "ITEMID_RANCHIPIKKU7",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 87,
+      "item": "ITEMID_RANCHIPIKKU20",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    },
+    {
+      "lineupid": "shop_bbzihanki_lineup",
+      "sortnum": 88,
+      "item": "ITEMID_TEEBURUKABAA21",
+      "item_condkind": "NONE",
+      "item_condvalue": "",
+      "gym_badge_num": 0
+    }
+  ]
+}

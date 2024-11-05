@@ -561,6 +561,406 @@
       "PokedexRegistration": true
     },
     {
+      "label": "s1_main_0160_oniballoon_gonbe",
+      "pokeData": {
+        "devId": "DEV_GONBE",
+        "formId": 0,
+        "item": "ITEMID_NONE",
+        "level": 1,
+        "sex": "MALE",
+        "seikaku": "WANPAKU",
+        "seikakuHosei": "DEFAULT",
+        "tokusei": "SET_3",
+        "rareType": "RARE",
+        "rareTryCount": 0,
+        "talentType": "RANDOM",
+        "talentValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "talentVnum": 0,
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "friendship": 0,
+        "heightType": "VALUE",
+        "heigntValue": 255,
+        "weightType": "VALUE",
+        "waightValue": 255,
+        "scaleType": "VALUE",
+        "scaleValue": 255,
+        "setPersonalRand": false,
+        "personalRand": 0,
+        "setRandSeed": false,
+        "randSeed": 0,
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "useNickName": false,
+        "nicknameLabel": 14695981039346656837,
+        "parentNameLabel": 14695981039346656837,
+        "parentSex": "DEFAULT",
+        "parentLangId": "ROM_LANG",
+        "parentMemoryCode": 0,
+        "parentMemoryData": 0,
+        "parentMemoryFeel": 0,
+        "parentMemoryLevel": 0,
+        "langId": "ROM_LANG",
+        "ballId": "MONSUTAABOORU",
+        "setRibbon": "ORION_CUNNING",
+        "eventFlg": false,
+        "gemType": "DEFAULT",
+        "wazaConfirmLevel": 0,
+        "pokememo": "NONE",
+        "pokememoPlace": 0,
+        "trainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "label": "s1_side02_0060_hisuiGardie",
+      "pokeData": {
+        "devId": "DEV_GAADHI",
+        "formId": 1,
+        "item": "ITEMID_NONE",
+        "level": 15,
+        "sex": "MALE",
+        "seikaku": "YOUKI",
+        "seikakuHosei": "DEFAULT",
+        "tokusei": "SET_3",
+        "rareType": "NO_RARE",
+        "rareTryCount": 0,
+        "talentType": "VALUE",
+        "talentValue": {
+          "hp": 31,
+          "atk": 31,
+          "def": 20,
+          "spAtk": 20,
+          "spDef": 20,
+          "agi": 31
+        },
+        "talentVnum": 0,
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "friendship": 50,
+        "heightType": "VALUE",
+        "heigntValue": 254,
+        "weightType": "VALUE",
+        "waightValue": 254,
+        "scaleType": "VALUE",
+        "scaleValue": 254,
+        "setPersonalRand": false,
+        "personalRand": 0,
+        "setRandSeed": false,
+        "randSeed": 0,
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "useNickName": false,
+        "nicknameLabel": 14695981039346656837,
+        "parentNameLabel": 14695981039346656837,
+        "parentSex": "DEFAULT",
+        "parentLangId": "ROM_LANG",
+        "parentMemoryCode": 0,
+        "parentMemoryData": 0,
+        "parentMemoryFeel": 0,
+        "parentMemoryLevel": 0,
+        "langId": "ROM_LANG",
+        "ballId": "MONSUTAABOORU",
+        "setRibbon": "NONE",
+        "eventFlg": false,
+        "gemType": "IWA",
+        "wazaConfirmLevel": 0,
+        "pokememo": "NONE",
+        "pokememoPlace": 0,
+        "trainerId": 33714
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "label": "s1_sub_001_egg_000",
+      "pokeData": {
+        "devId": "DEV_NAETORU",
+        "formId": 0,
+        "item": "ITEMID_NONE",
+        "level": 1,
+        "sex": "DEFAULT",
+        "seikaku": "DEFAULT",
+        "seikakuHosei": "DEFAULT",
+        "tokusei": "SET_1",
+        "rareType": "NO_RARE",
+        "rareTryCount": 0,
+        "talentType": "RANDOM",
+        "talentValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "talentVnum": 0,
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "friendship": 0,
+        "heightType": "VALUE",
+        "heigntValue": 128,
+        "weightType": "VALUE",
+        "waightValue": 128,
+        "scaleType": "VALUE",
+        "scaleValue": 128,
+        "setPersonalRand": false,
+        "personalRand": 0,
+        "setRandSeed": false,
+        "randSeed": 0,
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "useNickName": false,
+        "nicknameLabel": 14695981039346656837,
+        "parentNameLabel": 14695981039346656837,
+        "parentSex": "DEFAULT",
+        "parentLangId": "ROM_LANG",
+        "parentMemoryCode": 0,
+        "parentMemoryData": 0,
+        "parentMemoryFeel": 0,
+        "parentMemoryLevel": 0,
+        "langId": "ROM_LANG",
+        "ballId": "MONSUTAABOORU",
+        "setRibbon": "NONE",
+        "eventFlg": false,
+        "gemType": "DEFAULT",
+        "wazaConfirmLevel": 0,
+        "pokememo": "NONE",
+        "pokememoPlace": 0,
+        "trainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "label": "s1_sub_001_egg_001",
+      "pokeData": {
+        "devId": "DEV_HIKOZARU",
+        "formId": 0,
+        "item": "ITEMID_NONE",
+        "level": 1,
+        "sex": "DEFAULT",
+        "seikaku": "DEFAULT",
+        "seikakuHosei": "DEFAULT",
+        "tokusei": "SET_1",
+        "rareType": "NO_RARE",
+        "rareTryCount": 0,
+        "talentType": "RANDOM",
+        "talentValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "talentVnum": 0,
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "friendship": 0,
+        "heightType": "VALUE",
+        "heigntValue": 128,
+        "weightType": "VALUE",
+        "waightValue": 128,
+        "scaleType": "VALUE",
+        "scaleValue": 128,
+        "setPersonalRand": false,
+        "personalRand": 0,
+        "setRandSeed": false,
+        "randSeed": 0,
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "useNickName": false,
+        "nicknameLabel": 14695981039346656837,
+        "parentNameLabel": 14695981039346656837,
+        "parentSex": "DEFAULT",
+        "parentLangId": "ROM_LANG",
+        "parentMemoryCode": 0,
+        "parentMemoryData": 0,
+        "parentMemoryFeel": 0,
+        "parentMemoryLevel": 0,
+        "langId": "ROM_LANG",
+        "ballId": "MONSUTAABOORU",
+        "setRibbon": "NONE",
+        "eventFlg": false,
+        "gemType": "DEFAULT",
+        "wazaConfirmLevel": 0,
+        "pokememo": "NONE",
+        "pokememoPlace": 0,
+        "trainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "label": "s1_sub_001_egg_002",
+      "pokeData": {
+        "devId": "DEV_POTTYAMA",
+        "formId": 0,
+        "item": "ITEMID_NONE",
+        "level": 1,
+        "sex": "DEFAULT",
+        "seikaku": "DEFAULT",
+        "seikakuHosei": "DEFAULT",
+        "tokusei": "SET_1",
+        "rareType": "NO_RARE",
+        "rareTryCount": 0,
+        "talentType": "RANDOM",
+        "talentValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "talentVnum": 0,
+        "effortValue": {
+          "hp": 0,
+          "atk": 0,
+          "def": 0,
+          "spAtk": 0,
+          "spDef": 0,
+          "agi": 0
+        },
+        "friendship": 0,
+        "heightType": "VALUE",
+        "heigntValue": 128,
+        "weightType": "VALUE",
+        "waightValue": 128,
+        "scaleType": "VALUE",
+        "scaleValue": 128,
+        "setPersonalRand": false,
+        "personalRand": 0,
+        "setRandSeed": false,
+        "randSeed": 0,
+        "wazaType": "DEFAULT",
+        "waza1": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza2": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza3": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "waza4": {
+          "wazaId": "WAZA_NULL",
+          "pointUp": 0
+        },
+        "useNickName": false,
+        "nicknameLabel": 14695981039346656837,
+        "parentNameLabel": 14695981039346656837,
+        "parentSex": "DEFAULT",
+        "parentLangId": "ROM_LANG",
+        "parentMemoryCode": 0,
+        "parentMemoryData": 0,
+        "parentMemoryFeel": 0,
+        "parentMemoryLevel": 0,
+        "langId": "ROM_LANG",
+        "ballId": "MONSUTAABOORU",
+        "setRibbon": "NONE",
+        "eventFlg": false,
+        "gemType": "DEFAULT",
+        "wazaConfirmLevel": 0,
+        "pokememo": "NONE",
+        "pokememoPlace": 0,
+        "trainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
       "label": "sub060_gnyasu",
       "pokeData": {
         "devId": "DEV_NYAASU",
